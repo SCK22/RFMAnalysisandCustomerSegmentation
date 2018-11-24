@@ -1,5 +1,7 @@
 # RFMAnalysisandCustomerSegmentation
-EDA and customer segmentation with RFM analysis on hacker earth dataset. https://www.hackerearth.com/challenge/hiring/LMG-analytics-data-science-hiring-challenge
+EDA and customer segmentation with RFM analysis. 
+
+https://www.hackerearth.com/challenge/hiring/LMG-analytics-data-science-hiring-challenge
 
 You can download the data from the link provided and execute this code.
 
